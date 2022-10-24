@@ -2,9 +2,6 @@ package codewars;
 
 import org.junit.Test;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
@@ -20,29 +17,14 @@ public class CountingDuplicates {
     }
 
     public static int duplicateCount(String text) {
-        text = text.toLowerCase();
-        char[] letras = text.toCharArray();
-
-        List<Character> lista = new ArrayList<>();
-        for(char c : letras){
-            lista.add(c);
-        }
-
-        int qtLetras = letras.length;
-
-        Map<Character, Long> counter = lista.stream()
+        Map<Character, Long> letras = text.codePoints()
+                .map(Character::toLowerCase)
+                .mapToObj(c -> (char) c)
                 .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
 
+        Long letrasRepetidas = letras.values().stream().filter(c -> c > 1 ).count();
+        return letrasRepetidas.intValue();
 
-        List<Long> list = new ArrayList<>();
-        for (Long l : counter.values()){
-            list.add(l);
-        }
-
-        Long valoresRepetidos = list.stream().filter(c -> c > 1).count();
-
-
-        return valoresRepetidos.intValue();
     }
 }
 

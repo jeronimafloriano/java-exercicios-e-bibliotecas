@@ -17,25 +17,6 @@ public class PhoneNumber {
             }
             return phone;
 
-            /*String phone = "(";
-            for (int i = 0; i < 3; i++){
-                String number = String.valueOf(numbers[i]);
-                phone = phone.concat(number);
-            }
-            phone = phone.concat(") ");
-
-            for (int i = 3; i < 6; i++){
-                String number = String.valueOf(numbers[i]);
-                phone = phone.concat(number);
-            }
-            phone = phone.concat("-");
-
-            for (int i = 6; i < numbers.length; i++){
-                String number = String.valueOf(numbers[i]);
-                phone = phone.concat(number);
-            }
-
-            return phone;*/
 
         }
 

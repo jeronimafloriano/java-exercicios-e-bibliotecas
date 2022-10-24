@@ -9,11 +9,6 @@ import java.util.stream.Collectors;
 public class Lambdas {
 
     public static void main(String[] args) {
-        /*List<Pessoa> pessoas = new ArrayList<>();
-        pessoas.add(new Pessoa("Jeronima", 26));
-        pessoas.add(new Pessoa("Mario", 18));
-        pessoas.add(new Pessoa("Maria", 15));
-        pessoas.add(new Pessoa("Juliana", 16));*/
 
         List<Pessoa> pessoas = Arrays.asList(new Pessoa("Jeronima", 26),
                 new Pessoa("Mario", 18),

@@ -20,33 +20,6 @@ public class WhoLikesIt {
                 names.length == 3 ? String.format(who3, names[0], names[1], names[2]) :
                 String.format(who3, names[0], names[1], (names.length - 2) + " others");
 
-        /*
-            String who = "no one likes this";
-            String who2 = "X and X like this";
-            String who3 = "X, X and X like this";
-
-            if(names.length == 1){
-                String pedacoAConcatenar = who.substring(6,who.length());
-                who = names[0].concat(pedacoAConcatenar);
-            } else if(names.length == 2){
-                who2 = who2.replaceFirst("X", names[0]);
-                who2 = who2.replaceFirst("X", names[1]);
-                return who2;
-            } else if (names.length == 3) {
-                who3 = who3.replaceFirst("X", names[0]);
-                who3 = who3.replaceFirst("X", names[1]);
-                who3 = who3.replaceFirst("X", names[2]);
-                return who3;
-            }
-            else if (names.length > 3) {
-                who3 = who3.replaceFirst("X", names[0]);
-                who3 = who3.replaceFirst("X", names[1]);
-                String pedacoAConcatenar2 = (names.length - 2) + " others";
-                who3 = who3.replaceFirst("X", pedacoAConcatenar2);
-                return who3;
-            }
-
-            return who;*/
     }
 }
 

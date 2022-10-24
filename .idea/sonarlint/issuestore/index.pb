@@ -43,8 +43,6 @@ W
 'src/main/java/beecrowd/SortSimples.java,a\2\a2e387ff8feecc39e73732edac8feaa0d613daa1
 `
 0src/main/java/hackerhanck/easy/JavaIterator.java,a\a\aaa7210696e64efe29fa5f85e55adeadea3a1e5b
-c
-3src/main/java/bibliotecas/Interfacesfuncionais.java,3\a\3a0ae615ef79485a74481aaa49c8aefb57c95c1a
 U
 %src/main/java/beecrowd/Multiplos.java,7\2\72e5cb94ad5f5ca4aad35cce923bfd997dc80660
 ^
