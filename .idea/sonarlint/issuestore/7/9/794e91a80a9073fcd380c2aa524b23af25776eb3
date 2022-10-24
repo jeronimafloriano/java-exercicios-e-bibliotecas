@@ -1,0 +1,24 @@
+
+7
+java:S2111"!Use "BigDecimal.valueOf" instead.(Áµ¨Ú
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¹õ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(º½êÇ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÌœŞÇıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(íŒƒ·úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(íŒƒ·úÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(¢œÅøıÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(˜ä¥¼ùÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(Í€‰®ÿÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(İÃúµşÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(Û–ÆÏûÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(«’±öøÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(„ªö»şÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ä‹¾´ÿÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ÖÛ¤Ëûÿÿÿÿ
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(›Ìü×úÿÿÿÿ8œÆ¿á¾0
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(úòñ¸ùÿÿÿÿ8úÀá¾0
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(¥˜ÏÕùÿÿÿÿ8Š–Äá¾0
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(ÔÅÀµüÿÿÿÿ8õ‘Åá¾0
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(Õ¬•ˆ8ËğÆá¾0
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(Å©š†8Ú–Éá¾0
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(·Ğåÿÿÿÿÿ8¸ÑÍá¾0
