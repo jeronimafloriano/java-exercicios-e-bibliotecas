@@ -1,0 +1,11 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(°ÜŸû8’¡·ªÁ0
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ôÏ˜¢ûÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–™é§şÿÿÿÿ
+<
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+F
+java:S5960"+Remove this assertion from production code.(¶çà‡øÿÿÿÿ

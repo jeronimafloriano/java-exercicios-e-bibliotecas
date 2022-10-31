@@ -46,6 +46,21 @@ public class Teste {
             System.out.println("terceira string");
         }
 
+
+        ////////////////////////////////
+        String[] students = new String[10];
+        String studentName = "Peter Parker";
+        students[0] = studentName;
+        studentName = null;
+        System.out.println(students[0]);
+
+        ////////////////////////////////
+
+       // Aninhada aninhada = new Aninhada(); NÃO FUNCIONA!
+        ClasseDelimitadora classeDelimitadora = new ClasseDelimitadora();
+        ClasseDelimitadora.Aninhada classeAninhada = classeDelimitadora.new Aninhada();
+
+
     }
 }
 
@@ -91,4 +106,27 @@ class Circle{
         myCircle.moveCircle(myCircle, 23,56);
         System.out.println(myCircle.getX() + " , " + myCircle.getY());
     }
+}
+
+
+class Medidas{
+
+    private int altura;
+    private int largura;
+    private int profundidade;
+
+    //EXEMPLO DE UM CONSTRUTOR CHAMANDO OUTRO.
+    public Medidas(int altura, int largura, int profundidade){
+        this.altura = altura;
+        this.largura = largura;
+        this.profundidade = profundidade;
+    }
+
+    public Medidas(int profundidade){
+        //System.out.println("teste 1 "); NÃO FUNCIONA PQ se presente, a invocação de outro construtor deve ser a primeira linha no construtor.
+        this(0,0,profundidade);
+        System.out.println("teste 2 ");
+    }
+
+
 }
