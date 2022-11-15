@@ -1,0 +1,8 @@
+
+g
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(†Äıÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Äıÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(¾±¦Ï
+A
+java:S5960"+Remove this assertion from production code.(¤·¯ì
