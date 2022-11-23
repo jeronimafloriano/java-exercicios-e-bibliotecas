@@ -119,3 +119,15 @@ X
 (src/main/java/bibliotecas/ClassMath.java,a\e\aedc49921155ea4c84fe21711082f7e2711dd44d
 c
 3src/main/java/codewars/fundamentals/HumanYears.java,f\a\faa9220389ffb7185c9a08d70cc86d387042e788
+b
+2src/main/java/codewars/fundamentals/PowersOf2.java,8\3\83c44d9d8c3320199dcfa03442444a49e4d4d7fd
+t
+Dsrc/main/java/codewars/fundamentals/StringsTheFeastOfManyBeasts.java,d\e\de7a7eddc8b50dcfbeddec25f03065852f160e46
+h
+8src/main/java/codewars/fundamentals/GrasshopperMove.java,3\6\36c2d2fd58e0d818be1cd60f3ad41fcf00bbd00e
+p
+@src/main/java/codewars/fundamentals/FixMeStaticElectrickery.java,4\2\42f5d217a7158c284af4bd0f69464d5fb1d3a082
+d
+4src/main/java/codewars/fundamentals/Dinglemouse.java,7\b\7bcc85407bbcde0a097d981ebeae790297ac37f3
+f
+6src/main/java/codewars/fundamentals/CountingSheep.java,b\3\b3153b59d8a4d22bb2541868222f274fb833c81d

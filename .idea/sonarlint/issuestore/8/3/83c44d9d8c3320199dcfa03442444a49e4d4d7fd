@@ -1,0 +1,14 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(ÛÃìêıÿÿÿÿ8ğÇ®Ã0
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÍÍ÷˜
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÍÁ¦Ã0
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ÍÁ¦Ã0
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8ÍÁ¦Ã0
+Z
+java:S1128"8Remove this unused import 'java.util.stream.LongStream'.(óœñıÿÿÿÿ8ÍÁ¦Ã0
+F
+java:S5960"+Remove this assertion from production code.(Ñâã ùÿÿÿÿ
