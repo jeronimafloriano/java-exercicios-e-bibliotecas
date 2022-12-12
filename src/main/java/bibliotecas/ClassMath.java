@@ -19,5 +19,19 @@ public class ClassMath {
         System.out.println("Retorna o menor de dois números: " + Math.min(1052, 1900));
         System.out.println("Retorna o double anterior: " + Math.nextDown(1));
         System.out.println("Retorna o próximo double: " + Math.nextUp(1));
+
+        Double  a = Math.sqrt(3);
+        Double  b = Math.sqrt(100);
+
+        var c = a.toString();
+        var d = b.toString();
+
+        c = c.replaceFirst("0","");
+        //d = d.replaceFirst("0","");
+        System.out.println("c: " + c);
+        System.out.println("d : " + d);
+        //var depoisDoPonto = d.codePointCount((d.indexOf(".") + 1), d.length());
+        var depoisDoPonto =d.substring((d.indexOf(".")+1));
+        System.out.println(depoisDoPonto);
     }
 }

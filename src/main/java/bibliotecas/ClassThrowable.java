@@ -1,8 +1,5 @@
 package bibliotecas;
 
-import hackerhanck.easy.Sort;
-
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class ClassThrowable {
