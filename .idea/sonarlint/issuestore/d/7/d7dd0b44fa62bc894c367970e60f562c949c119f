@@ -1,16 +1,0 @@
-
-X
-java:S1854"BRemove this useless assignment to local variable "real2Formatado".(½¯Ï’
-\
-java:S1854"ARemove this useless assignment to local variable "realFormatado".(ÃĞçÀüÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(éıæÚ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(•èàÇøÿÿÿÿ
-M
-java:S1481"2Remove this unused "realFormatado" local variable.(ÃĞçÀüÿÿÿÿ
-I
-java:S1481"3Remove this unused "real2Formatado" local variable.(½¯Ï’
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Àçÿáÿÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(”ß–½
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ö…æÂûÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(‹½÷
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ªŸœ„ÿÿÿÿÿ

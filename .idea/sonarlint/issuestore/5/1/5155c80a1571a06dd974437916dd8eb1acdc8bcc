@@ -1,12 +1,0 @@
-
-W
-java:S1854"5Remove this useless assignment to local variable "m".(ºïÄßüÿÿÿÿ8“ð°Ú¾0
-H
-java:S1481"&Remove this unused "m" local variable.(ºïÄßüÿÿÿÿ8•ð°Ú¾0
-i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¨¤^8Â°±Ú¾0
-V
-java:S3400"9Remove this method and declare a constant for this value.(Øè¢Ã8Â°±Ú¾0
-V
-java:S1161":Add the "@Override" annotation above this method signature(Ú¨¤^8öà±Ú¾0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(äÓ¿Í8÷à±Ú¾0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹”´Ïýÿÿÿÿ8øà±Ú¾0
