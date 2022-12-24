@@ -1,5 +1,4 @@
-import java.util.Collection;
-import java.util.List;
+package outros_exercicios_da_internet;
 
 public class Inventario {
     private int id;

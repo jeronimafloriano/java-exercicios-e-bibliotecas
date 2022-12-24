@@ -1,3 +1,5 @@
+package outros_exercicios_da_internet;
+
 public class ClasseDelimitadora {
 
     String outerField = "Campo externo";

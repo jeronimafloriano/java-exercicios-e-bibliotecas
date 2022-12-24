@@ -16,8 +16,6 @@ public class ArraySecond {
 
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
-
-
         List<List<Integer>> arr = new ArrayList<>();
 
         IntStream.range(0, 6)
